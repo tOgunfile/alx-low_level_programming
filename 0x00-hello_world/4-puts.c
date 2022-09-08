@@ -1,6 +1,6 @@
 #include <stdio.h>
-
-int main void()
+/* This function prints a strng using puts */
+int main()
 {
 char text[] = "\"Programming is like building a multilingual puzzle";
 puts(text);
