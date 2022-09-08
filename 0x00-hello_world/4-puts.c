@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
- *  This function prints a strng using puts 
+ * main - This function prints a strng using puts
+ * 
+ * Return: 0 
  */
 int main(void)
 {
