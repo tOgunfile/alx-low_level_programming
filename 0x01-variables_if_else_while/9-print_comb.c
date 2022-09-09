@@ -6,8 +6,9 @@
  */
 int main(void)
 {
-	int n = 0;
+	int n;
 
+	n = 0;
 	putchar(n);
 	for (n = '1'; n <= '9'; n++)
 	{
