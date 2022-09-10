@@ -7,10 +7,11 @@
 int main(void)
 {
 	int n;
+	int a;
 
 	for (n = '0'; n <= '8'; n++)
 	{
-		for (int a = '0'; a <= '9'; a++)
+		for (a = '0'; a <= '9'; a++)
 		{
 		if (!(a == n || a < n))
 		{
