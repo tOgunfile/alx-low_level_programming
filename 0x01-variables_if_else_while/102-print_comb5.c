@@ -9,9 +9,9 @@ int main(void)
 	int n;
 	int a;
 
-	for (n = '0'; n <= '99'; n++)
+	for (n = 0; n <= 99; n++)
 	{
-		for (a = '0'; a <= '99'; a++)
+		for (a = 0; a <= 99; a++)
 		{
 		if (n < a && n != j)
 		{
